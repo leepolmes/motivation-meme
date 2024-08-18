@@ -2,19 +2,17 @@ html{
     background-color: black;
 }
 
-#meme{
+.image{
     height:fit-content ;
     width:fit-content ;
     border: 5px solid white;
-    margin-left: 25%;
-    margin-top: 15%;
 }
 
-#text{
+#meme{
+    margin-left: 25%;
+    margin-top: 25%;
     color: white;
     text-align: center;
-    padding-top: 5px;
-    margin-left: 25%;
     font-family: "Libre Baskerville", serif;
 }
 
